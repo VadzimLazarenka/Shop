@@ -45,7 +45,7 @@
   vertical-align: middle;
   margin: 0 auto;
   text-align: left;
-  z-index: 1045; }
+  z-index: 1043; }
 
 .mfp-inline-holder .mfp-content,
 .mfp-ajax-holder .mfp-content {
@@ -90,9 +90,9 @@
   width: auto;
   text-align: center;
   margin-top: -0.8em;
-  left: 8px;
-  right: 8px;
-  z-index: 1044; }
+  left: 6px;
+  right: 6px;
+  z-index: 1042; }
   .mfp-preloader a {
     color: #CCC; }
     .mfp-preloader a:hover {
@@ -123,9 +123,9 @@ button::-moz-focus-inner {
   border: 0; }
 
 .mfp-close {
-  width: 44px;
-  height: 44px;
-  line-height: 44px;
+  width: 42px;
+  height: 42px;
+  line-height: 42px;
   position: absolute;
   right: 0;
   top: 0;
@@ -149,9 +149,9 @@ button::-moz-focus-inner {
 .mfp-image-holder .mfp-close,
 .mfp-iframe-holder .mfp-close {
   color: #FFF;
-  right: -6px;
+  right: -5px;
   text-align: right;
-  padding-right: 6px;
+  padding-right: 5px;
   width: 100%; }
 
 .mfp-counter {
@@ -159,8 +159,8 @@ button::-moz-focus-inner {
   top: 0;
   right: 0;
   color: #CCC;
-  font-size: 12px;
-  line-height: 18px;
+  font-size: 10px;
+  line-height: 16px;
   white-space: nowrap; }
 
 .mfp-arrow {

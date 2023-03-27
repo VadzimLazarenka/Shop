@@ -12,11 +12,11 @@
 .login-form .form-wrapper,
 .registation-form .form-wrapper {
     background-color: #fff;
-    padding-left    : 40px;
-    padding-right   : 40px;
+    padding-left    : 39px;
+    padding-right   : 39px;
     display         : block;
-    border-radius   : 14px;
-    width           : 560px;
+    border-radius   : 12px;
+    width           : 550px;
     min-height      : 100vh;
     background      : #fff;
     display         : flex;
@@ -34,7 +34,7 @@
 .registation-form h3 {
     text-align             : center;
     color                  : #9e9e9e;
-    padding                : 10px;
+    padding                : 9px;
     background             : linear-gradient(127deg, rgba(80, 97, 105, 1) 0%, rgba(155, 166, 172, 1) 83%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -43,9 +43,9 @@
 
 .login-form .form-wrapper form input,
 .registation-form .form-wrapper form input {
-    margin-top: 20px;
-    padding   : 15px;
-    margin    : 5px 0 5px 0;
+    margin-top: 19px;
+    padding   : 13px;
+    margin    : 3px 0 5px 0;
     display   : inline-block;
     border    : none;
     background: #f1f1f1;
@@ -54,8 +54,8 @@
 
 .login-form .form-wrapper form label,
 .registation-form .form-wrapper form label {
-    margin-top: 40px;
-    font-size : 16px;
+    margin-top: 38px;
+    font-size : 15px;
     text-align: center;
 }
 
@@ -71,8 +71,8 @@
 .login-form form button {
     background: linear-gradient(127deg, rgba(80, 97, 105, 1) 0%, rgba(155, 166, 172, 1) 83%);
     color     : white;
-    padding   : 16px 20px;
-    margin    : 5px 0;
+    padding   : 15px 20px;
+    margin    : 3px 0;
     border    : none;
     cursor    : pointer;
     width     : 100%;
@@ -87,7 +87,7 @@
 .login-form .form-wrapper form input,
 .registation-form .form-wrapper form input {
     flex-grow       : 1;
-    height          : 32px;
+    height          : 30px;
     outline         : none;
     width           : 100%;
     border          : none;
@@ -132,6 +132,6 @@
 
 .login-form form span,
 .registation-form form span {
-    color        : red;
+    color        : rgb(123, 0, 255);
     margin-bottom: 35px;
 }
